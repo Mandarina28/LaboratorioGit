@@ -11,17 +11,17 @@ Utilizaremos los comandos de ls y cd.
 Podemos utilizar code . para abrir en VisualStudioCode la carpeta.
 
 ### Crea una carpeta con el nombre del repositorio.
-
+```
 mkdir LaboratorioGit
-
+```
 ### Ingresa a la carpeta que acabas de crear.
-
+```
 cd LaboratorioGit
-
+```
 ### Inicializa el repositorio de Git
-
+```
 git init
-
+```
 ---
 ## Subir el repositorio a GitHub.
 
