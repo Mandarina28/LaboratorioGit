@@ -43,10 +43,29 @@ Para conectar nuestro repositorio local con el repositorio en la nube, vamos a n
 ```
 git remote add origin https://github.com/Mandarina28/LaboratorioGit.git
 ```
+
+### Verifica que la conexión se haya establecido correctamente 
+Con este codigo podemos ver si la configuración de git está apuntando correctamente al repositorio en la nube: 
+```
+git remote -v
+```
 ---
 ## Hacer un commit y un push.
+### Crea un archivo en la carpeta del repositorio
+### Añade el archivo a Staging
+### Crea un commit con un mensaje descriptivo
+### Sube los cambios al repositorio en GitHub.
 ---
 ## Crear una rama.
+### Crea una rama llamada "development"
+### Cambia a la nueva rama
+### Realiza algunos cambios en el archivo que creaste
+### Añade y haz commit con los cambios en la rama "development"
+### Sube los cambios a GitHub.
 ---
 ## Hacer un merge.
+### Vuelve a la rama "main"
+### Haz un merge de la rama "development" a la rama "main"
+### Si no hay conflictos los cambios realizados en la rama "development" se incorporarán a la rama "main"
+### Haz un push de los cambios al repositorio en GitHub.
 
