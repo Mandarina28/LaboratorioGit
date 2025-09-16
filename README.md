@@ -1,5 +1,6 @@
 # LaboratorioGit
 
+[Visita el index](https://mandarina28.github.io/LaboratorioGit/)
 ---
 ## Crear un repositorio en local.
 
@@ -147,3 +148,4 @@ Mergeado sin conflictos.
 git push
 ```
 
+[Visita el index](https://mandarina28.github.io/LaboratorioGit/)
